@@ -20,6 +20,7 @@ namespace Stopwatch
       {
          int currentTime = 0;
 
+
          while (currentTime != time)
          {
             Console.Clear();
